@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Ignore node modules if you add any dependencies
+node_modules/
+
+# MacOS & VSCode stuff
+.DS_Store
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel/Netlify/Deploy
+.vercel/
